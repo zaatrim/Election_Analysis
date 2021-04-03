@@ -10,7 +10,7 @@
 Election Data was collected and consolidated into CSV text File, Named "election_results.csv". I will write code in Python to automate the data analysis based on the CSV file. 
    a. We will initiate the analysis process by importing the raw Txt file into Python. And define a file to save the data to i.  Once we read the file, we will store the Data in the "election_data" file name, Define the Variables, Lists, and Diceritonariers we need to run the analysis.
        
-       ![code_Initiation_variables_definition](https://user-images.githubusercontent.com/80013773/113467625-0da52a80-93f9-11eb-8b44-853181b5d467.png)
+![code_Initiation_variables_definition](https://user-images.githubusercontent.com/80013773/113467625-0da52a80-93f9-11eb-8b44-853181b5d467.png)
             
    b. we will start loop through all rows in the file to :
       i. Calculate the total number of votes. 
