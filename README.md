@@ -17,14 +17,17 @@ Election Data was collected and consolidated into CSV text File, Named "election
       ii. identify the list of Candidates and List Counties, store their unique value into the defined lists "candidate_options" &"county_list" accordingly.
       iii. count number of votes per candidate and number of votes per count. Store these values in the defined Dectionieries "candidate_votes" & "county_votes"  accordingly. 
 
-      * insert image of 1st loop to count votes per county and per candidate*
+   ![1st_loop_votes_county_candidate](https://user-images.githubusercontent.com/80013773/113467691-873d1880-93f9-11eb-8f0e-07e7eb3eef04.png)
    
    C. then, we will initiate an additional Loop to calculate the county % of total Votes and the Largest county. And print the results to the terminal, and save the results to the "election_analysis.txt" file.
 
-        * insert image of code iteration for the county statistics*
+   ![2nd_Loop](https://user-images.githubusercontent.com/80013773/113467714-b2276c80-93f9-11eb-8b61-bcf7c0a98344.PNG)
+   
+   ![print_1st_loop_votes_county_candidate](https://user-images.githubusercontent.com/80013773/113467742-da16d000-93f9-11eb-9663-533ddbc426b4.png)
+
    D. Next will initiate an additional Loop to calculate the Candidate votes % out of total Votes and then identify the winning candidate. Then print the results to the terminal and save the results to the "election_analysis.txt" file.
 
-      * insert image of code iteration for the county statistics*
+   ![loop_print_winners](https://user-images.githubusercontent.com/80013773/113467757-fadf2580-93f9-11eb-9be9-9b9a335fa793.PNG)
           
 ### Results
 
@@ -33,7 +36,8 @@ Election results analysis is leading to the following results and conclusions:
    b) Dever is the largest county, with 82.8% of total Votes.
    c) The Candidate election winner is Diana DeGette with272,892 Votes. Won with 73.8% out of total votes   
 
-         *insert image of the outcome of the results 
+   ![Terminal_print](https://user-images.githubusercontent.com/80013773/113467770-1813f400-93fa-11eb-8326-74823c143557.PNG)
+
     
 ## *Summary*
 ### Advantages
